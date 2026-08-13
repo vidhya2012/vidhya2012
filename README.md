@@ -1,5 +1,10 @@
 # Hi, I'm Vidhyalakshmi 👋
 
+picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for DATA • INSIGHTS • IMPACT" src="art/header-light.png">
+</picture>
+
 I build data pipelines and dashboards that turn raw, messy datasets into decisions — fraud signals, performance trends, financial insights. If you need someone to take a pile of CSVs and turn it into something a stakeholder can actually act on, that's my lane.
 
 ## What I've shipped
